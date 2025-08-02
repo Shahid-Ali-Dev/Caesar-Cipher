@@ -1,0 +1,8 @@
+__pycache__/
+*.blend1
+*.pyc
+.DS_Store
+.vscode/
+.env
+*.env
+*.log
